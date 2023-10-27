@@ -1,6 +1,6 @@
 # Projeto To-Do
 
-Este é um prjeto de exemplo de uma aplicação de Lista de Afazeres (to-do list) desenvolvida em React. Esta aplicação permite que os usuários criem, atualizem e gerenciem tarefas e a fazer  de forma simples.
+Este é um projeto de exemplo de uma aplicação de Lista de Afazeres (to-do list) desenvolvida em React. Esta aplicação permite que os usuários criem, atualizem e gerenciem tarefas e a fazer de forma simples.
 
 ## Funcionalidades
 - Adicionar tarefas á lista.
