@@ -5,5 +5,5 @@ Este é um projeto de exemplo de uma aplicação de Lista de Afazeres (to-do lis
 ## Funcionalidades
 - Adicionar tarefas á lista.
 - Marcar tarefas como concluídas.
-- Editar tarefas exixtentes.
+- Editar tarefas existentes.
 - Excluir tarefas da lista.
